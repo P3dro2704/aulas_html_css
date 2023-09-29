@@ -1,0 +1,18 @@
+.caixa_width {
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    border: 2px solid rebeccapurple;
+    width: 200px; ;
+}
+
+.imagem_width {
+    width: 300px;
+}
+
+.caixa_height {
+    border: 2px dashed darkcyan;
+
+    height: 50px;
+    width: 50px;
+}
